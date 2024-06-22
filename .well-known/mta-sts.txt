@@ -2,4 +2,6 @@ version: STSv1
 mode: testing
 mx: mailsec.protonmail.ch
 mx: mail.protonmail.ch
+mx: spool.mail.gandi.net
+mx: fb.mail.gandi.net
 max_age: 604800
